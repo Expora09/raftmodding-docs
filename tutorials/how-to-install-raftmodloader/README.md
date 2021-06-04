@@ -36,7 +36,7 @@ Then once the game has loaded you should have a new menu in the Raft main menu a
 
 {% page-ref page="troubleshooting.md" %}
 
-![This menu should show up when you launch Raft through the RML Launcher](../../.gitbook/assets/capture%20%283%29.png)
+![This menu should show up when you launch Raft through the RML Launcher](../../.gitbook/assets/first_load.png)
 
 ### **6. Next steps**
 
